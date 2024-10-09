@@ -21,7 +21,8 @@ table {
     font-weight: bold;
 }
 .hora{
-  font-size: small;
+  text-align: center;
+  font-size: smaller;
 }
   tr:nth-child(even){
     background-color: #887b52;
