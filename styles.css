@@ -20,6 +20,9 @@ table {
   .hora, .dia {
     font-weight: bold;
 }
+.hora{
+  font-size: small;
+}
   tr:nth-child(even){
     background-color: #887b52;
   }
