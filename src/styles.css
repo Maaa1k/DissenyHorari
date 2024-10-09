@@ -1,18 +1,46 @@
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 80%;
+    margin: auto;
   }
+  h2 {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 0.5%;
+}
   
   td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
+    border: 4px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+    font-style: oblique;
   }
-  
+  .hora, .dia {
+    font-weight: bold;
+}
   tr:nth-child(even){
-    background-color: #646464;
+    background-color: #887b52;
   }
-  diss {
-    background-color: aquamarine;
+  .dia:nth-child(even){
+    background-color: #887b52;
+  }
+  .disseny {
+    background-color: #B5BF6B;
+  }
+  .desnv{
+    background-color: #F2B05E;
+  }
+  .desp{
+    background-color: #BF6734;
+  }
+  .empresa{
+    background-color: #728C14;
+  }
+  .webServ{
+    background-color: #D97171;
+  }
+  .esplai{
+    background-color: #887b52;
   }
